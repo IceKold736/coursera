@@ -2,10 +2,14 @@
 * {
   box-sizing: border-box;
 }
-h1 {
+#Title {
   margin-bottom: 15px;
   width: 50%;
   align: auto;
+}
+#MovieTitle{
+  position: relative;
+  right 50px;
 }
 
 p {
